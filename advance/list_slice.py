@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- encode:utf-8 -*-
 from collections import Iterable
+from bs4 import BeautifulSoup
 
 
 array = ['Alice','Bob','Curry','Dnoraze','Davice']
@@ -30,3 +31,5 @@ for s in 'abc':
 # Python内置的enumerate函数可以把一个list变成索引-元素对
 for i,n in enumerate(numbers):
     print(i,n)
+
+print('')
