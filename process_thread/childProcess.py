@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- encode: utf-8 -*-
+# -*- encoding: utf-8 -*-
 import subprocess
 
 # print('$ nslookup www.python.org')

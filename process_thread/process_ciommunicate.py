@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- encode: utf-8 -*-
+# -*- encoding: utf-8 -*-
 
 # 实现读者写者问题
 

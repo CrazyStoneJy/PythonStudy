@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- encode: utf-8 -*-
+# -*- encoding: utf-8 -*-
 
 array1 = list(range(1,10))
 print(array1)

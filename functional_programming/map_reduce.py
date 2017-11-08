@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- encode: utf-8 -*-
+# -*- encoding: utf-8 -*-
 from functools import reduce
 
 array = [1,2,3,4,5,6,7,8,9]

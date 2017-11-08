@@ -1,0 +1,81 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+L1	../advance/generate_list.py	/^L1 = ['Hello', 'World', 18, 'Apple', None]$/;"	kind:variable	line:25
+a	../basic/list_tuple.py	/^a = 'abc'$/;"	kind:variable	line:27
+aa	../functional_programming/functional.py	/^def aa(a,b):$/;"	kind:function	line:17
+abs2	../functional_programming/functional.py	/^def abs2(num):$/;"	kind:function	line:20
+add	../functional_programming/functional.py	/^def add(a,b,c):$/;"	kind:function	line:12
+add	../functional_programming/map_reduce.py	/^def add(a,b):$/;"	kind:function	line:22
+arr	../advance/generate_list.py	/^arr = ['12','34','546']$/;"	kind:variable	line:14
+arr	../functional_programming/map_reduce.py	/^arr = ['adam', 'LISA', 'barT']$/;"	kind:variable	line:60
+array	../advance/list_slice.py	/^array = ['Alice','Bob','Curry','Dnoraze','Davice']$/;"	kind:variable	line:7
+array	../basic/list_tuple.py	/^array = ['1','2','3']$/;"	kind:variable	line:7
+array	../functional_programming/map_reduce.py	/^array = [1,2,3,4,5,6,7,8,9]$/;"	kind:variable	line:5
+array1	../advance/generate_list.py	/^array1 = list(range(1,10))$/;"	kind:variable	line:4
+array1	../functional_programming/map_reduce.py	/^array1 = []$/;"	kind:variable	line:19
+array2	../advance/generate_list.py	/^array2 = [x*x for x in range(1,10)]$/;"	kind:variable	line:7
+array3	../advance/generate_list.py	/^array3 = [x*x for x in range(1,10) if x%2==0]$/;"	kind:variable	line:11
+array4	../advance/generate_list.py	/^array4 = [str(m) + str(n) for m in arr for n in 'abcdf']$/;"	kind:variable	line:17
+array6	../advance/generate_list.py	/^array6 = [s.lower() for s in L1 if isinstance(s,str)]$/;"	kind:variable	line:26
+b	../basic/list_tuple.py	/^b = a.replace('a','A')$/;"	kind:variable	line:28
+char2int	../functional_programming/map_reduce.py	/^def char2int(everyChar):$/;"	kind:function	line:44
+charDict	../functional_programming/map_reduce.py	/^charDict = genCharDict()$/;"	kind:variable	line:42
+childProcess.py	../process_thread/childProcess.py	1;"	kind:file	line:1
+count	../basic/function.py	/^count = 0$/;"	kind:variable	line:128
+count	../functional_programming/map_reduce.py	/^count = 0$/;"	kind:variable	line:10
+d	../advance/generate_list.py	/^d = {'a':'1','b':'2','c':'3'}$/;"	kind:variable	line:20
+data_type_variable.py	../basic/data_type_variable.py	1;"	kind:file	line:1
+digit	../basic/function.py	/^def digit(n):$/;"	kind:function	line:116
+f	../basic/function.py	/^def f(n):$/;"	kind:function	line:77
+f2	../basic/function.py	/^def f2(n,res):$/;"	kind:function	line:87
+f3	../basic/function.py	/^def f3(n):$/;"	kind:function	line:93
+floatNum	../functional_programming/map_reduce.py	/^floatNum = float('234.45')$/;"	kind:variable	line:69
+floatNum	../functional_programming/map_reduce.py	/^floatNum = floatNum + 1$/;"	kind:variable	line:70
+fn	../functional_programming/map_reduce.py	/^def fn(x,y):$/;"	kind:function	line:48
+foo	../basic/function.py	/^def foo(a,b='b',*c,d,**kw):$/;"	kind:function	line:70
+foo	../functional_programming/functional.py	/^def foo():$/;"	kind:function	line:4
+forkTest	../process_thread/forkTest.py	/^def forkTest():$/;"	kind:function	line:9
+forkTest.py	../process_thread/forkTest.py	1;"	kind:file	line:1
+function.py	../basic/function.py	1;"	kind:file	line:1
+functional.py	../functional_programming/functional.py	1;"	kind:file	line:1
+genCharDict	../functional_programming/map_reduce.py	/^def genCharDict():$/;"	kind:function	line:36
+generate_list.py	../advance/generate_list.py	1;"	kind:file	line:1
+generator.py	../advance/generator.py	1;"	kind:file	line:1
+hex2	../basic/function.py	/^def hex2(number):$/;"	kind:function	line:9
+isDigit	../basic/function.py	/^def isDigit(n1,n2):$/;"	kind:function	line:114
+iter	../functional_programming/map_reduce.py	/^def iter(x,y):$/;"	kind:function	line:25
+list_slice.py	../advance/list_slice.py	1;"	kind:file	line:1
+list_tuple.py	../basic/list_tuple.py	1;"	kind:file	line:1
+loop	../process_thread/thread.py	/^def loop():$/;"	kind:function	line:8
+maching	../functional_programming/map_reduce.py	/^def maching(string):$/;"	kind:function	line:61
+map_reduce.py	../functional_programming/map_reduce.py	1;"	kind:file	line:1
+move	../basic/function.py	/^def move():$/;"	kind:function	line:32
+move	../basic/function.py	/^def move(n,a,b,c):$/;"	kind:function	line:130
+multi	../basic/function.py	/^def multi():$/;"	kind:function	line:100
+multiprocess.py	../process_thread/multiprocess.py	1;"	kind:file	line:1
+newThread	../process_thread/thread.py	/^def newThread():$/;"	kind:function	line:15
+numbers	../advance/list_slice.py	/^numbers = []$/;"	kind:variable	line:13
+p	../functional_programming/map_reduce.py	/^def p(string):$/;"	kind:function	line:11
+p	../process_thread/childProcess.py	/^p = subprocess.Popen(['nslookup'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)$/;"	kind:variable	line:10
+p	../process_thread/processPool.py	/^    p = Pool(4)$/;"	kind:variable	line:17
+power	../basic/function.py	/^def power(number,n = 2):$/;"	kind:function	line:37
+power	../functional_programming/map_reduce.py	/^def power(x):$/;"	kind:function	line:6
+printCurrentThreadName	../process_thread/thread.py	/^def printCurrentThreadName(state = ''):$/;"	kind:function	line:23
+printStr	../basic/function.py	/^def printStr(*strings):$/;"	kind:function	line:45
+proce	../process_thread/processPool.py	/^def proce(name):$/;"	kind:function	line:6
+processPool.py	../process_thread/processPool.py	1;"	kind:file	line:1
+process_ciommunicate.py	../process_thread/process_ciommunicate.py	1;"	kind:file	line:1
+read	../process_thread/process_ciommunicate.py	/^def read(q):$/;"	kind:function	line:9
+run_proc	../process_thread/multiprocess.py	/^def run_proc(name):$/;"	kind:function	line:7
+str2int	../functional_programming/map_reduce.py	/^def str2int(string):$/;"	kind:function	line:51
+stringArray	../basic/function.py	/^stringArray = ['a','b','c','f']$/;"	kind:variable	line:50
+string_encoding.py	../basic/string_encoding.py	1;"	kind:file	line:1
+test	../basic/function.py	/^def test(id,name,**kw):$/;"	kind:function	line:57
+test2	../basic/function.py	/^def test2(name,*,city,address):$/;"	kind:function	line:64
+thread.py	../process_thread/thread.py	1;"	kind:file	line:1
+traverse	../basic/list_tuple.py	/^def traverse():$/;"	kind:function	line:8
+write	../process_thread/process_ciommunicate.py	/^def write(q):$/;"	kind:function	line:13

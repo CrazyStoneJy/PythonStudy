@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- encode: utf-8 -*-
+# -*- encoding: utf-8 -*-
 
 def foo():
     print('foo')
